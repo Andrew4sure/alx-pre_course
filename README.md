@@ -1,1 +1,1 @@
-“Starting to code today, so cool”“Starting to code today, so cool”
+It is so great learning software engineering at ALX
